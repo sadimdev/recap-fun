@@ -8,7 +8,9 @@ const App = () => {
       <Home />
       {/* pen animation */}
       <CodePen />
+      <div className='w-[70vw] max-[1200px] mx-auto'>
       <Home />
+      </div>
     </div>
   )
 }
